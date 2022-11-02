@@ -1,0 +1,114 @@
+{
+    "0": {
+        "email": "linutematulaitiene@gmail.com",
+        "password": "$2y$10$YsQ3kdrabiBsQeRju8fSOOCWBmq2QJ77PDVV.\/rs\/XrwSs142Pk.2",
+        "phone_number": "lllll",
+        "created_at": "2022-09-30 20:44:53",
+        "updated_at": null
+    },
+    "1": {
+        "email": "sarunas@logiteksa.lt",
+        "password": "$2y$10$VDgCtMNnERcfD7fUwnFcae5IgZukkF\/amgRyaNVVLcxoJo2soqco.",
+        "phone_number": "555555",
+        "created_at": "2022-09-30 20:45:43",
+        "updated_at": null
+    },
+    "2": {
+        "email": "mantas.matulaitis.mm@gmail.com",
+        "password": "$2y$10$CKm93bwzZRQnl9o1j.xdCe.dHRyz0hTpPdi.I35YpveZwSrvcGnvi",
+        "phone_number": "55555555555",
+        "created_at": "2022-09-30 20:46:33",
+        "updated_at": null
+    },
+    "3": {
+        "email": "povilas.matulaitis.pm@gmail.com",
+        "password": "$2y$10$lzLl9DI7odP1DPYIkZzGde1fKpU4g3NcYmR9UURoK1.e91NZTtb8C",
+        "phone_number": "111111111111",
+        "created_at": "2022-09-30 20:47:14",
+        "updated_at": null
+    },
+    "4": {
+        "email": "lina.matulaitiene@codeacademylt.onmicrosoft.com",
+        "password": "$2y$10$hQjOnI2WSllkTtrW5TTOvunbdY\/PiexQcdJt3OWeON9RBsNAJrOj6",
+        "phone_number": "55555555",
+        "created_at": "2022-10-02 09:59:52",
+        "updated_at": null
+    },
+    "5": {
+        "email": "Linatulaitiene@gmail.com",
+        "password": "$2y$10$2pxCsZ.Z\/pbHq62y.y\/m8ep2Cz6cE0Cb07bS9NVK6iP727SKTLzKS",
+        "phone_number": "555555",
+        "created_at": "2022-10-02 15:39:18",
+        "updated_at": null
+    },
+    "6": {
+        "email": "ltematulaitiene@gmail.com",
+        "password": "$2y$10$FtRkI.aJ9J6\/9XtiRg.H0eb5e0wqepPSQwkET9wWizk58W1\/7Bbta",
+        "phone_number": "8888",
+        "created_at": "2022-10-03 12:01:18",
+        "updated_at": null
+    },
+    "7": {
+        "email": "nutematulaitiene@gmail.com",
+        "password": "$2y$10$kQP1NZrrXTYzKDDx0NNM6u84NFKSa8lzjhsmZU1mmVNhlY4pPiaqK",
+        "phone_number": "55555555",
+        "created_at": "2022-10-03 17:41:25",
+        "updated_at": null
+    },
+    "8": {
+        "email": "matulaitiene@gmail.com",
+        "password": "$2y$10$5rqFzFN5sBQK99Za75fmwuwEM1tNR4ecMNL.7kSmciwwAuzuLGCx6",
+        "phone_number": "44444",
+        "created_at": "2022-10-03 18:32:45",
+        "updated_at": null
+    },
+    "9": {
+        "email": "linutematulaitien@gmail.com",
+        "password": "$2y$10$LET.lL5wFLxwKAVmBiHoJeG2vnJtbzq9J96K2heN5M411r23ZPPUG",
+        "phone_number": "55555555",
+        "created_at": "2022-10-03 18:38:03",
+        "updated_at": null
+    },
+    "10": {
+        "email": "lmatulaitiene@gmail.com",
+        "password": "$2y$10$KnPjwi2j1bqq5BPrlWr3I.sfvOzcQae0qRIl9Bl09RfDt1ukxsXp2",
+        "phone_number": "11111",
+        "created_at": "2022-10-03 20:09:06",
+        "updated_at": null
+    },
+    "11": {
+        "email": "e@gmail.com",
+        "password": "$2y$10$f6KAo.G0RmqKTlOsVn62xOdtf3TYApQfOU.lbK7yCG54abXyVEkFi",
+        "phone_number": "555555555",
+        "created_at": "2022-10-03 21:31:39",
+        "updated_at": null
+    },
+    "12": {
+        "email": "ee@gmail.com",
+        "password": "$2y$10$0LLsx1RWKCYbaCytEqEjk.4aRIreCxIS5qsJIL4saM7jB8yXfYTde",
+        "phone_number": "55555555",
+        "created_at": "2022-10-05 16:01:51",
+        "updated_at": null
+    },
+    "13": {
+        "email": "as@logiteksa.lt",
+        "password": "$2y$10$M1oXQECKmBSiQpmIvwFWe.vLHzBSSC9hLOoAeN0Yxf0GNZ7FriByW",
+        "phone_number": "",
+        "created_at": "2022-10-05 16:50:39",
+        "updated_at": null
+    },
+    "14": {
+        "email": "eee@gmail.com",
+        "password": "$2y$10$zQZE15f1ZsgvX2zx7Ev9geCzkrS6vvrjoMve41hELV2vAxaxSZffm",
+        "phone_number": "8",
+        "created_at": "2022-10-23 12:36:02",
+        "updated_at": null
+    },
+    "15": {
+        "email": "eeeee@gmail.com",
+        "password": "$2y$10$rAlp30kpHuLMKe1b1nQ6ZeNABNsDn\/tBd9aYdtjFV1l7Jro.l47NS",
+        "phone_number": "5",
+        "created_at": "2022-10-23 12:38:04",
+        "updated_at": null
+    }
+}

@@ -1,0 +1,92 @@
+{
+    "1": {
+        "user_id": 1,
+        "title": "VW Golf",
+        "description": "Great car",
+        "price": 125000,
+        "city": "Kaunas",
+        "phone_number": "+37013245678",
+        "created_at": "2022-06-01 08:05",
+        "updated_at": "2022-06-15 01:15"
+    },
+    "2": {
+        "user_id": 2,
+        "title": "VW Passat",
+        "description": "Even better car",
+        "price": 175000,
+        "city": "Kaunas",
+        "phone_number": "+37013245678",
+        "created_at": "2022-06-28 01:15",
+        "updated_at": "2022-07-01 01:15"
+    },
+    "3": {
+        "user_id": null,
+        "title": "hhh",
+        "description": "hhh",
+        "price": "5000",
+        "city": "Kaunas",
+        "phone_number": "55555555",
+        "created_at": "2022-10-04 20:39:57",
+        "updated_at": null
+    },
+    "4": {
+        "user_id": 0,
+        "title": "lll",
+        "description": "lll",
+        "price": "44",
+        "city": "ll",
+        "phone_number": "444",
+        "created_at": "2022-10-04 20:57:01",
+        "updated_at": null
+    },
+    "5": {
+        "user_id": 2,
+        "title": "11",
+        "description": "11",
+        "price": "55",
+        "city": "222",
+        "phone_number": "22",
+        "created_at": "2022-10-05 16:00:34",
+        "updated_at": null
+    },
+    "6": {
+        "user_id": 0,
+        "title": "ll",
+        "description": "kkk",
+        "price": "22",
+        "city": "k",
+        "phone_number": "5555",
+        "created_at": "2022-10-22 21:19:22",
+        "updated_at": null
+    },
+    "7": {
+        "user_id": null,
+        "title": "ok",
+        "description": "ok",
+        "price": "2",
+        "city": "Kaunas",
+        "phone_number": "55555555",
+        "created_at": "2022-10-23 12:21:51",
+        "updated_at": null
+    },
+    "8": {
+        "user_id": 11,
+        "title": "okk",
+        "description": "okk",
+        "price": "5",
+        "city": "k",
+        "phone_number": "5",
+        "created_at": "2022-10-23 12:34:24",
+        "updated_at": null
+    },
+    "9": {
+        "user_id": 11,
+        "title": "no",
+        "description": "no",
+        "price": "5000",
+        "city": "Kaunas",
+        "phone_number": "55555555",
+        "created_at": "2022-10-23 12:38:36",
+        "updated_at": null
+    }
+}

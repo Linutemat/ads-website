@@ -1,0 +1,20 @@
+body {
+    max-width: 1200px;
+    margin: auto;
+
+}
+
+nav {
+    background: rgba(152,147,63,0.35);
+    padding: 25px;
+}
+
+nav h2 {
+    display: flex;
+    justify-content: space-around;
+}
+
+nav > div {
+    display: flex;
+    justify-content: space-around;
+}

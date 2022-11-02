@@ -1,0 +1,23 @@
+{
+    "name": "lina/ads-website",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Lina\\AdsWebsite\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Lina",
+            "email": "linutematulaitiene@gmail.com"
+        }
+    ],
+    "require": {
+        "ext-pdo": "*",
+        "bramus/router": "~1.6"
+    },
+    "scripts": {
+        " ": "php -f scripts/setup_database.php && php -f scripts/seed_database.php",
+        "start_server": "php -S localhost:8080 index.php"
+    }
+}
